@@ -12,3 +12,4 @@
 
 👉 **[Start your journey today!](https://techwithtim.net/dev)**  
 No experience needed—just your determination. Future-proof your career and unlock six-figure potential like many of our students have!  
+First GitHub edit for my CSCI class.
